@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://hstar.live/"/>
   <updated>2017-05-17T08:30:11.794Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://hstar.live/</id>
   
   <author>
     <name>Hstar</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>2017新春快乐</title>
-    <link href="http://yoursite.com/2017/01/28/2017-01-28-HappyNewyear/"/>
-    <id>http://yoursite.com/2017/01/28/2017-01-28-HappyNewyear/</id>
+    <link href="http://hstar.live/2017/01/28/2017-01-28-HappyNewyear/"/>
+    <id>http://hstar.live/2017/01/28/2017-01-28-HappyNewyear/</id>
     <published>2017-01-28T08:09:00.000Z</published>
     <updated>2017-05-17T08:30:11.794Z</updated>
     
@@ -33,14 +33,14 @@
     </summary>
     
     
-      <category term="鸡年大吉吧！" scheme="http://yoursite.com/tags/%E9%B8%A1%E5%B9%B4%E5%A4%A7%E5%90%89%E5%90%A7%EF%BC%81/"/>
+      <category term="鸡年大吉吧！" scheme="http://hstar.live/tags/%E9%B8%A1%E5%B9%B4%E5%A4%A7%E5%90%89%E5%90%A7%EF%BC%81/"/>
     
   </entry>
   
   <entry>
     <title>选课小助手.Net 使用说明</title>
-    <link href="http://yoursite.com/2016/09/23/2016-9-23-c-sharp/"/>
-    <id>http://yoursite.com/2016/09/23/2016-9-23-c-sharp/</id>
+    <link href="http://hstar.live/2016/09/23/2016-9-23-c-sharp/"/>
+    <id>http://hstar.live/2016/09/23/2016-9-23-c-sharp/</id>
     <published>2016-09-22T16:20:00.000Z</published>
     <updated>2017-05-17T08:23:11.140Z</updated>
     
@@ -75,19 +75,19 @@
     
     </summary>
     
-      <category term="小助手" scheme="http://yoursite.com/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
+      <category term="小助手" scheme="http://hstar.live/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
     
     
-      <category term="选课助手" scheme="http://yoursite.com/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
+      <category term="选课助手" scheme="http://hstar.live/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
     
-      <category term="C#" scheme="http://yoursite.com/tags/C/"/>
+      <category term="C#" scheme="http://hstar.live/tags/C/"/>
     
   </entry>
   
   <entry>
     <title>关于选课小助手</title>
-    <link href="http://yoursite.com/2016/09/19/2016-9-19-curricula-variable/"/>
-    <id>http://yoursite.com/2016/09/19/2016-9-19-curricula-variable/</id>
+    <link href="http://hstar.live/2016/09/19/2016-9-19-curricula-variable/"/>
+    <id>http://hstar.live/2016/09/19/2016-9-19-curricula-variable/</id>
     <published>2016-09-19T15:24:00.000Z</published>
     <updated>2017-05-17T08:27:38.031Z</updated>
     
@@ -123,19 +123,19 @@
     
     </summary>
     
-      <category term="小助手" scheme="http://yoursite.com/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
+      <category term="小助手" scheme="http://hstar.live/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
     
     
-      <category term="选课助手" scheme="http://yoursite.com/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
+      <category term="选课助手" scheme="http://hstar.live/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
     
-      <category term="脚本" scheme="http://yoursite.com/tags/%E8%84%9A%E6%9C%AC/"/>
+      <category term="脚本" scheme="http://hstar.live/tags/%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
   <entry>
     <title>选课小助手按键精灵版使用说明书</title>
-    <link href="http://yoursite.com/2016/09/07/2016-9-7-reamme/"/>
-    <id>http://yoursite.com/2016/09/07/2016-9-7-reamme/</id>
+    <link href="http://hstar.live/2016/09/07/2016-9-7-reamme/"/>
+    <id>http://hstar.live/2016/09/07/2016-9-7-reamme/</id>
     <published>2016-09-07T10:45:00.000Z</published>
     <updated>2017-05-17T08:21:03.808Z</updated>
     
@@ -163,19 +163,19 @@
     
     </summary>
     
-      <category term="小助手" scheme="http://yoursite.com/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
+      <category term="小助手" scheme="http://hstar.live/categories/%E5%B0%8F%E5%8A%A9%E6%89%8B/"/>
     
     
-      <category term="选课助手" scheme="http://yoursite.com/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
+      <category term="选课助手" scheme="http://hstar.live/tags/%E9%80%89%E8%AF%BE%E5%8A%A9%E6%89%8B/"/>
     
-      <category term="脚本" scheme="http://yoursite.com/tags/%E8%84%9A%E6%9C%AC/"/>
+      <category term="脚本" scheme="http://hstar.live/tags/%E8%84%9A%E6%9C%AC/"/>
     
   </entry>
   
   <entry>
     <title>SystemView汉化版</title>
-    <link href="http://yoursite.com/2016/09/01/2016-9-1-systemview/"/>
-    <id>http://yoursite.com/2016/09/01/2016-9-1-systemview/</id>
+    <link href="http://hstar.live/2016/09/01/2016-9-1-systemview/"/>
+    <id>http://hstar.live/2016/09/01/2016-9-1-systemview/</id>
     <published>2016-09-01T01:50:00.000Z</published>
     <updated>2017-05-17T08:11:52.947Z</updated>
     
@@ -198,21 +198,21 @@
     
     </summary>
     
-      <category term="SystemView" scheme="http://yoursite.com/categories/SystemView/"/>
+      <category term="SystemView" scheme="http://hstar.live/categories/SystemView/"/>
     
     
-      <category term="本地化" scheme="http://yoursite.com/tags/%E6%9C%AC%E5%9C%B0%E5%8C%96/"/>
+      <category term="本地化" scheme="http://hstar.live/tags/%E6%9C%AC%E5%9C%B0%E5%8C%96/"/>
     
-      <category term="SystemView" scheme="http://yoursite.com/tags/SystemView/"/>
+      <category term="SystemView" scheme="http://hstar.live/tags/SystemView/"/>
     
-      <category term="通信工程" scheme="http://yoursite.com/tags/%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B/"/>
+      <category term="通信工程" scheme="http://hstar.live/tags/%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>时光老去，岁月沧桑</title>
-    <link href="http://yoursite.com/2016/08/29/2016-08-29-Tell-myself/"/>
-    <id>http://yoursite.com/2016/08/29/2016-08-29-Tell-myself/</id>
+    <link href="http://hstar.live/2016/08/29/2016-08-29-Tell-myself/"/>
+    <id>http://hstar.live/2016/08/29/2016-08-29-Tell-myself/</id>
     <published>2016-08-29T12:03:00.000Z</published>
     <updated>2017-05-17T08:08:26.420Z</updated>
     
@@ -225,17 +225,17 @@
     
     </summary>
     
-      <category term="碎碎念" scheme="http://yoursite.com/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
+      <category term="碎碎念" scheme="http://hstar.live/categories/%E7%A2%8E%E7%A2%8E%E5%BF%B5/"/>
     
     
-      <category term="新开始" scheme="http://yoursite.com/tags/%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
+      <category term="新开始" scheme="http://hstar.live/tags/%E6%96%B0%E5%BC%80%E5%A7%8B/"/>
     
   </entry>
   
   <entry>
     <title>在github建立博客</title>
-    <link href="http://yoursite.com/2016/08/20/2016-08-20-new-start/"/>
-    <id>http://yoursite.com/2016/08/20/2016-08-20-new-start/</id>
+    <link href="http://hstar.live/2016/08/20/2016-08-20-new-start/"/>
+    <id>http://hstar.live/2016/08/20/2016-08-20-new-start/</id>
     <published>2016-08-20T14:36:00.000Z</published>
     <updated>2017-05-17T07:58:51.795Z</updated>
     
@@ -248,17 +248,17 @@
     
     </summary>
     
-      <category term="建立站点" scheme="http://yoursite.com/categories/%E5%BB%BA%E7%AB%8B%E7%AB%99%E7%82%B9/"/>
+      <category term="建立站点" scheme="http://hstar.live/categories/%E5%BB%BA%E7%AB%8B%E7%AB%99%E7%82%B9/"/>
     
     
-      <category term="test" scheme="http://yoursite.com/tags/test/"/>
+      <category term="test" scheme="http://hstar.live/tags/test/"/>
     
   </entry>
   
   <entry>
     <title>基于VHDL数字时钟</title>
-    <link href="http://yoursite.com/2016/08/02/2016-9-2-timevhdl/"/>
-    <id>http://yoursite.com/2016/08/02/2016-9-2-timevhdl/</id>
+    <link href="http://hstar.live/2016/08/02/2016-9-2-timevhdl/"/>
+    <id>http://hstar.live/2016/08/02/2016-9-2-timevhdl/</id>
     <published>2016-08-02T11:30:00.000Z</published>
     <updated>2017-05-17T08:13:17.738Z</updated>
     
@@ -290,12 +290,12 @@
     
     </summary>
     
-      <category term="FPGA" scheme="http://yoursite.com/categories/FPGA/"/>
+      <category term="FPGA" scheme="http://hstar.live/categories/FPGA/"/>
     
     
-      <category term="数字时钟" scheme="http://yoursite.com/tags/%E6%95%B0%E5%AD%97%E6%97%B6%E9%92%9F/"/>
+      <category term="数字时钟" scheme="http://hstar.live/tags/%E6%95%B0%E5%AD%97%E6%97%B6%E9%92%9F/"/>
     
-      <category term="FPGA" scheme="http://yoursite.com/tags/FPGA/"/>
+      <category term="FPGA" scheme="http://hstar.live/tags/FPGA/"/>
     
   </entry>
   
